@@ -1,0 +1,246 @@
+@media (max-width: 1600px) {
+    .swiper-button-next, .swiper-rtl .swiper-button-prev {
+        right: 10px;
+    }
+    .swiper-button-prev, .swiper-rtl .swiper-button-next {
+        left: 10px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .deal-text h4 {
+        font-size: 22px;
+    }
+    .deal-text p {
+        font-size: 18px;
+    }
+    .deal-text p small {
+        font-size: 16px;
+    }
+    .rating img {
+        height: 16px;
+        width: 16px;
+    }
+    .deal-inner img {
+        height: 258px;
+    }
+    img.g-1 {
+        height: 540px;
+    }
+    img.g-2 {
+        height: 261px;
+    }
+    ul.airlines-list li {
+        width: 17.9%;
+    }
+}
+@media (max-width: 1199px) {
+    .header-top li {
+        padding-right: 12px;
+        margin-right: 12px !important;
+    }
+    .lan-switch {
+        padding-left: 12px;
+    }
+    .hero .swiper-slide h1 {
+        font-size: 50px;
+        max-width: 645px;
+    }
+    .hero .swiper-slide p {
+        font-size: 16px;
+        max-width: 640px;
+    }
+    section.services p {
+        font-size: 18px;
+        max-width: 630px;
+    }
+    .service-icon {
+        width: 85px;
+    }
+    .service-icon img {
+        max-height: 60px;
+        max-width: 65px;
+    }
+    .service-name span {
+        font-size: 50px;
+        margin-top: -5px;
+    }
+    .service-name {
+        font-size: 22px;
+    }
+    h3 {
+        font-size: 40px;
+        margin-bottom: 35px;
+    }
+    .deal-inner img {
+        height: 208px;
+    }
+    .row.deal-text {
+        padding: 10px 0px;
+    }
+    .deal-text p {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .places h5 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    section.places ul li {
+        margin-right: 20px;
+        margin-bottom: 10px;
+    }
+    a.play-btn img {
+        width: 80px;
+    }
+    a.play-btn {
+        margin: 0px auto 20px;
+    }
+    section.nature h6 {
+        font-size: 30px;
+    }
+    section.nature p {
+        font-size: 16px;
+    }
+    .deal-text h4 {
+        font-size: 18px;
+    }
+    .rating img {
+        height: 14px !important;
+        width: 14px !important;
+    }
+    .swiper-button-next:after, .swiper-rtl .swiper-button-prev:after,.swiper-button-prev:after, .swiper-rtl .swiper-button-next:after {
+        width: 37px;
+        height: 37px;
+    }
+    .row.g-images span {
+        font-size: 18px;
+    }
+    img.marker {
+        width: 17px;
+    }
+    .explore-inner h6 {
+        font-size: 30px;
+        max-width: 610px;
+    }
+    .explore-inner p {
+        font-size: 18px;
+        max-width: 610px;
+    }
+    a.btn.btn-light {
+        font-size: 18px;
+    }
+    .form-control {
+        border-radius: 6px;
+        height: 45px;
+        margin-bottom: 18px;
+        font-size: 16px;
+    }
+    .form-box .btn.btn-warning {
+        padding: 8px 30px;
+        font-size: 18px;
+    }
+    footer h6 {
+        margin-top: 45px;
+        font-size: 18px;
+    }
+    ul.footer-ul li {
+        margin-bottom: 17px;
+    }
+    ul.footer-ul li a {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 991px) {
+    .header-top li span {
+        display: none;
+    }
+    .header-top li {
+        padding-right: 15px;
+        margin-right: 12px !important;
+    }
+    .header-top ul.dropdown-menu {
+        border-radius: 0px;
+        min-width: 25px;
+        width: 37px;
+        border: none;
+        background-color: transparent;
+    }
+    .header-top ul.dropdown-menu li {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .header-top ul.dropdown-menu li a {
+        padding: 0px;
+    }
+    .deal-inner {
+        max-width: 320px;
+        margin-bottom: 20px;
+    }
+    .sec-heading {
+        font-size: 24px;
+    }
+    .sec-heading span {
+        font-size: 47px;
+        top: -12px;
+    }
+    img.g-2,img.g-1 {
+        height: 250px;
+    }
+    .row.g-images a {
+        margin-bottom: 20px !important;
+    }
+    ul.airlines-list li {
+        width: 175px;
+        margin-bottom: 12px;
+    }
+    .RTL .header-top li {
+        padding-left: 15px;
+        margin-left: 12px !important;
+    }
+    .RTL .lan-switch {
+        padding-right: 15px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    section.services,section.deals,section.places,.destinations,.py-100 {
+        padding: 60px 0px;
+    }
+    .service-inner {
+        margin-top: 60px;
+    }
+    h3 {
+        font-size: 30px;
+        margin-bottom: 28px;
+    }
+    section.nature {
+        padding: 100px 0px;
+    }
+    .swiper .deal-inner {
+        margin: auto;
+    }
+    .mb-6 {
+        margin-bottom: 50px;
+    }
+    .form-box {
+        border-radius: 15px;
+        padding: 30px 15px;
+    }
+    section.cloud.py-100 {
+        padding-top: 0;
+        padding-bottom: 170px;
+    }
+    footer h6 {
+        margin-bottom: 25px;
+    }
+    
+}
+
+@media (max-width: 575px) {
+    .sec-heading span {
+        font-size: 35px;
+        top: -6px;
+    }
+}
